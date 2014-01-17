@@ -1,0 +1,17 @@
+Slides Outline
+
+
+What is a Riemann Sum
+	Overview - intro
+
+Objectives
+	What we set out to do
+
+Definitions of Riemann Sum
+	any formulas used - both approaches to making the calculations
+	Incrementing by delta x causes floating point precision problems so incrementing
+	Talk about which method is better in which situation
+
+Stuff about the issues with the parsers
+	operators and optimizations
+
