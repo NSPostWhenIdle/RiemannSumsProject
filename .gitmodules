@@ -1,0 +1,3 @@
+[submodule "PythonRiemannSums"]
+	path = PythonRiemannSums
+	url = https://github.com/NSPostWhenIdle/PythonRiemannSums
