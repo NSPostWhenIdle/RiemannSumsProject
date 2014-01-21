@@ -1,14 +1,45 @@
 Slides Outline
 
+#Slide 0
+Cover slide w/title 
 
-What is a Riemann Sum
-	Overview - intro
+#Slide 1
+Overview - intro
+	What we are going to talk about
+		Riemann Sums
+		Programming
+		Math
+		Regex (maybe)
+
+#Slide 3
+What is a Riemann Sum?
+	Numerical method for integrating fuctions
+	Upper sum and lower sum have to converge to use
+	1/x from 0 to b is not Riemann intergable
 
 Objectives
 	What we set out to do
+		#Slide 4
+		##Motivations and inspirations
+		Check Homework
+		Similar to TI-83
+
+		#Slide 5
+		##Benefits of approach
+		No internet required 
+		No Wolfram required
+		Able to work on Mobile well
+
 
 Definitions of Riemann Sum
-	any formulas used - both approaches to making the calculations
+	Formulas for:
+	#Each will be a slide with formula and illustration. 
+		Left sum
+		Right sum
+		Middle sum
+		Trapezoidal sum
+
+
 	Incrementing by delta x causes floating point precision problems so incrementing
 	Talk about which method is better in which situation
 
