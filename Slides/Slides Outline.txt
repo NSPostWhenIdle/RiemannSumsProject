@@ -13,9 +13,9 @@ Overview - intro
 
 #Slide 3
 What is a Riemann Sum?
-	Numerical method for integrating fuctions
+	Numerical method for integrating functions
 	Upper sum and lower sum have to converge to use
-	1/x from 0 to b is not Riemann intergable
+	1/x from 0 to b is not Riemann integrable
 
 Objectives
 	What we set out to do
