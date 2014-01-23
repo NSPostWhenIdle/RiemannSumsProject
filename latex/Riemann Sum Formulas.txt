@@ -1,0 +1,15 @@
+Left
+
+\Delta x [f(a) + f(a + \Delta x)  + f(a + 2\Delta x) + \cdots  + f(b - \Delta x)]
+
+Right
+
+\Delta x [f(a + \Delta x)  + f(a + 2\Delta x) + \cdots  + f(b)]
+
+Middle
+
+\Delta x [f(a + \tfrac{\Delta x}{2})  + f(a + \tfrac{3\Delta x}{2}) + \cdots  + f(b - \tfrac{\Delta x}{2})]
+
+Trapezoidal
+
+\frac{\Delta x}{2}  [f(a) + 2f(a + \Delta x)  + 2f(a + 2\Delta x) + 2f(a + 3\Delta x) + \cdots  + f(b)]
